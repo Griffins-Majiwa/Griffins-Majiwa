@@ -1,21 +1,21 @@
-<h1>Hey there 👋, I'm Griffins Majiwa</h1>
-<h3 align="center">I'm deeply intrested in software engineering, cyber security, blockchain development and quantitative finance</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,python,java,tensorflow,mysql,html,css,javascript,bash,solidity" />
+</a>
 
-- 🎓 Currently studying **Information Technology at The Cooperative University of Kenya**
+---
 
-- ⛓️ Also learning **Smart contract development with solidity**
+### Yo 👋
 
-- 🎯 Focusing on **AI, ML and quant**
+## 👨‍💻 About Me
 
-- 🤝 Open to **Collaborating on interesting projects**
+I'm a Kenyan based developer, researcher and IT student. My area of expertise involves quantitative finance and markets, particularly in foreign exchange and equity markets. I'm also into blockchain particularly smart contract security research. My research primarily consistent of trading, programming and smart contract development and security
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/griffins-majiwa-37a19430b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/griffins-majiwa-37a19430b" height="30" width="40" /></a>
-<a href="https://instagram.com/_griffo_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_griffo_._" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=griffins-majiwa&show_icons=true&locale=en" alt="griffins-majiwa" /></p>
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=city_lights)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?card_width=700&username=YOUR_USERNAME&show_icons=true&theme=city_lights)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?card_width=700&hide_border=true&layout=compact&theme=city_lights&username=YOUR_USERNAME)
