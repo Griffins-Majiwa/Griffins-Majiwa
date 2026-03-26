@@ -14,8 +14,8 @@ I'm a Kenyan based developer, researcher and IT student. My area of expertise in
 
 ## 📊 GitHub Stats
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=city_lights)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Griffins-Majiwa&theme=city_lights)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?card_width=700&username=YOUR_USERNAME&show_icons=true&theme=city_lights)
+![GitHub stats](https://github-readme-stats.vercel.app/api?card_width=700&username=Griffins-Majiwa&show_icons=true&theme=city_lights)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?card_width=700&hide_border=true&layout=compact&theme=city_lights&username=YOUR_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?card_width=700&hide_border=true&layout=compact&theme=city_lights&username=Griffins-Majiwa)
