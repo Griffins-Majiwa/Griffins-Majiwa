@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Kenyan based developer, researcher and IT student. My area of expertise involves quantitative finance and markets, particularly in foreign exchange and equity markets. I'm also into blockchain particularly smart contract security research. My research is primarily consistent of trading, programming and smart contract development and security
+I'm a Kenyan based data scientist, researcher and IT student. My area of expertise involves quantitative finance and the financial markets, particularly in foreign exchange and equity markets. I'm also into blockchain particularly smart contract security research. My research is primarily consistent of trading, programming and smart contract development and security
 
 ---
 
